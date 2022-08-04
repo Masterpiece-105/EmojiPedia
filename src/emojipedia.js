@@ -99,6 +99,54 @@ const emojipedia = [
     emoji:"😉",
     name:"Winking Face",
     meaning:"Smiley blinks mischievously with one eye. Expression of humor, has been pulling a practical joke, is flirting with you or has an ulterior motive. The wink weakens the message: do not take it seriously, regard it as humorous."
+  },
+  {
+    id:"17",
+    emoji:"😌",
+    name:"Relieved Face",
+    meaning:"Everything went well! Relieved smiley face. Is happy that something unpleasant is over without having caused any harm. Relaxed, thankful and free of worries."
+  },
+  {
+    id:"18",
+    emoji:"😍",
+    name:"Smiling Face With Heart-Eyes",
+    meaning:"Happily beaming face with heart-shaped eyes. Insanely in love: with a person, a place or an object. Expresses the extent of love and affection as well as gratitude and is often part of romantic messages. Just does not know what to do with all the luck."
+  },
+  {
+    id:"19",
+    emoji:"🥰",
+    name:"Smiling face with smiling eyes and three hearts",
+    meaning:"You are in love, sitting on cloud number nine. The romantic emoji with the enamored expression of the face stands for affairs of the heart."
+  },
+  {
+    id:"20",
+    emoji:"😘",
+    name:"Face Throwing a Kiss",
+    meaning:"Smiley sends you a loving kiss that comes from the heart. Amicable, to express affection or with romantic intent, as an expression of love. May weaken a sarcastic response or be a reaction to a rude message. Symbol for flirting and showing gratitude."
+  },
+  {
+    id:"21",
+    emoji:"😗",
+    name:"Kissing Face",
+    meaning:"The face sends kisses to another person. The open eyes and the neutral face are not so much a sign of an intimate kiss but rather a kiss to a friend or relative. “Thank you“, “Hello“ or “Goodbye“. Could also stand for “whistling” or “duck face”."
+  },
+  {
+    id:"22",
+    emoji:"😙",
+    name:"Kissing Face With Smiling Eyes",
+    meaning:"Relaxed face expression, smiling eyes and kissing lips. A kiss to friends or “We hug and kiss you“ to relatives. Can also be used for whistling."
+  },
+  {
+    id:"23",
+    emoji:"😚",
+    name:"Kissing Face With Closed Eyes",
+    meaning:"Cute face with closed eyes and rosy cheeks. As a thank you for a tip or a favor. Loving kiss to the closest friends, family or darling."
+  },
+  {
+    id:"24",
+    emoji:"😋",
+    name:"Face Savouring Delicious Food",
+    meaning:"Bon appetit! Smiley is licking the corner of its mouth with its tongue. Is hungry, just cooked something very delicious or eaten a whole dish. Often interpreted as a grimace, with tongue outstretched, and used after a funny message or when fooling around."
   }
 
 ];
